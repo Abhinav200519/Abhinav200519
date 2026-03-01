@@ -1,46 +1,27 @@
-# 👨‍💻 Abhinav Sreenivas | Developer Portfolio
+# 💫 About Me:
+🔭 I’m currently working on building AI-powered full-stack applications and real-world deployment projects.<br><br>🤝 I’m looking to collaborate on innovative web development and AI/ML projects.<br><br>🛠 I’m looking for help with advanced system design and scaling production applications.<br><br>🌱 I’m currently learning advanced AI, cloud deployment, and performance optimization.<br><br>💬 Ask me about Full Stack Development, React, Django, and AI project building.<br><br>⚡ Fun fact: I enjoy turning complex ideas into real working applications.<br>
 
-Welcome to my developer portfolio! I'm a passionate and dedicated Computer Science student at ACE Engineering College, Hyderabad, aspiring to become a **Software Developer**, **Full-Stack Developer**, and **Data Scientist**. I enjoy building real-world projects using modern technologies and solving problems with code.
 
-## 🚀 About Me
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavsrinivas2005@gmail.com) 
 
-- 🎓 B.Tech in Computer Science (3rd Year)
-- 💡 Interests: Full Stack Development, AI/ML, Web Development, Career Guidance Platforms
-- 🛠️ Skills:  
-  `Java` | `Python` | `C++` | `HTML` | `CSS` | `JavaScript` | `ReactJS` | `SQL` | `Spring Boot` | `DSA`
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhinav200519&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhinav200519&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav200519&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📁 Projects in This Portfolio
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhinav200519&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **SuccesMap** | AI/ML-based career guidance platform | Django, ML |
-| **Career Guidance Web App** | Full-stack career platform | React, Express, Node |
-| **Drawing Board to Image (AI App)** | Converts sketches into realistic images using Clipdrop API | Python, Flask, HTML/CSS, JS |
-| **Cisco Network Simulations** | Networking practicals and simulations | Cisco Packet Tracer |
-| **Mini Projects** | Collection of learning-based apps and tools | HTML/CSS, JS, Python |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Online Presence
-
-- 📧 Email: abhinavsrinivas2005@gmail.com  
-- 📞 Phone: +91 9014865697  
-- 🌍 Location: Amberpet, Hyderabad  
-- 💼 LinkedIn: [linkedin.com/in/abhinav-sreenivas](#)  
-- 💻 Portfolio Website: *(Add your live portfolio site link here)*
-
-## 📌 How to Navigate
-
-Browse the folders/projects to explore individual apps. Each project contains:
-- Source Code
-- Documentation
-- Screenshots / Demo Links (if available)
-
-## 🏆 Goals
-
-- Build scalable, production-ready applications
-- Collaborate with like-minded developers
-- Constantly improve my knowledge in backend, frontend, and AI/ML
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhinav200519&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abhinav200519&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐️ Feel free to fork this repo, explore the projects, and reach out if you’d like to collaborate!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
