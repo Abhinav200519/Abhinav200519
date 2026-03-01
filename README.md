@@ -11,7 +11,9 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="250" src="https://github.com/Abhinav200519/Abhinav200519/blob/main/coding.gif" />
+<table>
+<tr>
+<td>
 
 - 🎓 B.Tech CSE @ ACE Engineering College (CGPA: 7.5)
 - 💼 Tech Lead Intern @ Viswam.AI (IIIT Hyderabad)
@@ -20,7 +22,14 @@
 - 🏗️ Passionate about scalable architecture & AI systems
 - 🧩 Strong in DSA & System Design
 
-<br/>
+</td>
+<td>
+
+<img src="https://github.com/Abhinav200519/Abhinav200519/blob/main/coding.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
