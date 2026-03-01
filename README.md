@@ -1,27 +1,140 @@
-# 💫 About Me:
-🔭 I’m currently working on building AI-powered full-stack applications and real-world deployment projects.<br><br>🤝 I’m looking to collaborate on innovative web development and AI/ML projects.<br><br>🛠 I’m looking for help with advanced system design and scaling production applications.<br><br>🌱 I’m currently learning advanced AI, cloud deployment, and performance optimization.<br><br>💬 Ask me about Full Stack Development, React, Django, and AI project building.<br><br>⚡ Fun fact: I enjoy turning complex ideas into real working applications.<br>
+<h1 align="center">Hi 👋, I'm Abhinav Sreenivas</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Engineer | 🔥 Tech Lead Intern @ Viswam.AI</h3>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavsrinivas2005@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhinav200519&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhinav200519&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav200519&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhinav200519&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhinav200519&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Abhinav200519">
+    <img src="https://komarev.com/ghpvc/?username=Abhinav200519&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhinav200519&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 B.Tech CSE @ ACE Engineering College (CGPA: 7.5)
+- 💼 Tech Lead Intern @ Viswam.AI (IIIT Hyderabad)
+- 🤖 Working on NLP using BERT & Transformer models
+- ⚡ Improved backend API performance by 30%
+- 🏗️ Passionate about scalable architecture & AI systems
+- 🧩 Strong in DSA & System Design
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,next,angular" />
+</p>
+
+### 🛠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,firebase,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav200519&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav200519&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav200519&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 SuccessMap — AI Career Recommendation Platform
+🔗 https://github.com/Abhinav200519/career-guidance
+
+- 85% prediction accuracy using ML
+- Django + Python backend
+- Real-world market data integration
+- Personalized recommendation engine
+
+---
+
+### 🎨 Sketch to Image Generator
+🔗 https://github.com/Abhinav200519/sketch-to-image-app
+
+- Converts sketches into AI-generated images
+- Integrated ClipDrop API
+- Built RESTful backend services
+- Authentication & robust error handling
+
+---
+
+### 🎬 Netflix Clone
+🔗 https://github.com/Abhinav200519/Netflix_Clone
+
+- Built with React + TypeScript + Vite
+- Dynamic content browsing
+- Authentication system
+- Responsive streaming UI
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Improved API performance by 30% at Viswam.AI
+- 🧠 Mentored 5+ interns on clean coding & Git workflows
+- 💻 Built and deployed 3+ full stack systems
+- 🏅 Cisco Certified in Python & C
+
+---
+
+## 🎯 2026 Goals
+
+- 🏆 Crack a top product-based company
+- 📚 Master System Design
+- 🤖 Build 3 production-grade AI systems
+- 🌍 Contribute to Open Source
+
+---
+
+## 🐍 Contribution Snake (Auto Generated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhinav200519/Abhinav200519/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/r-abhinav-sreenivas-/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:abhinavsrinivas2005@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+⭐ *Building scalable, intelligent, and impactful systems.*
